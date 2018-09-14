@@ -1,0 +1,14 @@
+  单词 次数 转化 权值 TF IDF 
+vsm 保存 本来 向量 形式 TF IDF 形式 单词 次数 转化 权值 
+TF IDF 介绍 参考 网上 文章 
+  文本 聚类 方法 
+  TF IDF 百度 百科 
+  TF IDF 维基百科 英文版 翻墙 
+TF term   frequency 计算 IDF Inverse   document   frequency 计算 公式 
+逆向 文件 频率 inverse   document   frequency IDF 词语 重要性 度量 某一 特定 词语 IDF 总 文件 数目 除以 包含 词语 文件 数目 商取 对数 
+公式 编辑 推荐 令人惊叹 网站 Detexify 
+
+语料库 中 文件 总数 
+包含 词语 文件 数目 文件 数目 词语 语料库 中 导致 分母 情况 分母 
+百度 百科 网上 大部分 TF 介绍 TF IDF 百度 百科 中说 词频 term   frequency TF 指 给定 词语 文件 中 频率 计算公式 
+计算 方式 导致 TF TF IDF 一种 计算 方式 多种 体现 维基百科 威力 TF IDF 介绍 参照 维基百科 
